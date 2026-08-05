@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "workbook": "R_Deidentified_R01_.xlsx",
+  "visit_rows": 797,
+  "unique_patients": 256,
+  "unique_patient_visits": 797,
+  "duplicate_patient_visit_rows": 0,
+  "visit_order": [
+    "V1/V1A",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "visit_counts": [
+    {
+      "Visit": "V1/V1A",
+      "Rows": 256
+    },
+    {
+      "Visit": "V2",
+      "Rows": 196
+    },
+    {
+      "Visit": "V3",
+      "Rows": 157
+    },
+    {
+      "Visit": "V4",
+      "Rows": 188
+    }
+  ],
+  "visit_date_coverage_percent": 91.719,
+  "completion_rate_percent": 77.832,
+  "default_metrics": [
+    "HbA1c",
+    "Calculated BMI",
+    "Mean Weight (kg)",
+    "Mean SBP",
+    "Mean DBP",
+    "Finger Stick Blood Glucose (mg/dL)"
+  ],
+  "longitudinal_columns": 670,
+  "charts_serialized": 9,
+  "excel_export_test": "PASS"
+}
